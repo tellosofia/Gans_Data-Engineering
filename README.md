@@ -31,6 +31,6 @@ Creating an automated data pipeline involves two major phases:
 - **Cloud Services:** AWS Lambda, AWS CloudWatch
 
 ## Expected Outcomes
-The project will result in an efficient data pipeline that collects and stores real-time data to predict e-scooter movements. This will help Gans improve scooter availability and operational efficiency. Key deliverables include a fully operational data pipeline and a Medium article detailing the project.
+The project will result in an efficient data pipeline that collects and stores real-time data to predict e-scooter movements. This will help Gans improve scooter availability and operational efficiency. Key deliverables include a fully operational data pipeline and a Medium article detailing a subject covered during the project.
 
 
